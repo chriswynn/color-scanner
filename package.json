@@ -1,0 +1,22 @@
+{
+  "name": "wynn-next-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "build": "next build && next export"
+  },
+  "keywords": [],
+  "author": "chriswynn",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "minireset.css": "0.0.6",
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-spring": "^8.0.27",
+    "react-use-tornis": "^0.1.4"
+  }
+}
